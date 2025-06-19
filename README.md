@@ -26,7 +26,7 @@ A clean, modern, and responsive website template designed for restaurants, cafes
 2. **Navigate to the project directory:**
 
    ```bash
-   cd restaurant-template
+   cd pizza-restaurant
    ```
 3. **Open `index.html` in your browser or start a local server:**
 
